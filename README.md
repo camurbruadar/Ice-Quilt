@@ -63,7 +63,7 @@ No one may patent, restrict, or profit from exclusive rights to this work.
 ## 📢 Spread the Word
 
 - Tag on social: `#IceQuilt #OpenSourceClimate`
-- Share the [OSF archive link](https://osf.io)
+- Share the [OSF archive link]([https://osf.io](https://osf.io/q5kdu/))
 - Post to Reddit, Instructables, Hackaday
 - Email NGOs, labs, and educators using `email_template.txt`
 
