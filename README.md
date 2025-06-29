@@ -73,6 +73,6 @@ No one may patent, restrict, or profit from exclusive rights to this work.
 
 **Matthew Cameron Kotapish**  
 Open Inventor & Climate Citizen  
-[Your contact or linktree here]
+mattkotapish94@gmail.com
 
 Together, we can reflect back the heat and hold the line.
