@@ -23,7 +23,7 @@ This repository contains all design blueprints, fabrication guides, material cos
 | File/Folder | Description |
 |-------------|-------------|
 | `blueprint.png` | Technical line drawing of a single 10x10m quilt panel |
-| `fabrication_guide.txt` | Full step-by-step guide to building the panels |
+| `Ice Quilt Production Costs and Method of Creation.pdf` | Full step-by-step guide to building the panels |
 | `cost_sheet.txt` | Sustainable material costs and bulk pricing estimates |
 | `public_domain_disclosure.txt` | Legal dedication to public domain (CC0 1.0) |
 
