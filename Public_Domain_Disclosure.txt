@@ -1,0 +1,9 @@
+This document formally places the Modular Reflective Quilted Surface System for Cryosphere Preservation into the public domain.
+
+All individuals or organizations are granted full rights to use, replicate, modify, distribute, or build upon this technology. No patents may be filed or enforced upon this concept, nor may it be commercially restricted or suppressed.
+
+This tool is intended for global use in combating ice loss due to climate change.
+
+This project and all associated materials are released into the public domain under the Creative Commons Zero (CC0 1.0 Universal) license. No rights are reserved. This project may not be patented or restricted by any entity now or in the future.
+
+— [Matthew Cameron Kotapish]
