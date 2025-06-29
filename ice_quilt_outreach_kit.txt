@@ -1,0 +1,87 @@
+# Ice Quilt Outreach Kit
+
+A quick-start guide for anyone who wants to help spread the word, improve the design, or bring the Ice Quilt to life in the real world.
+
+**Project Lead:** Matthew Cameron Kotapish  
+**License:** Public Domain (CC0 1.0 Universal)
+
+---
+
+## 🌍 What Is the Ice Quilt?
+
+The **Ice Quilt** is a scalable, open-source solution to reduce ice melt in polar and glacial regions. It uses low-cost, biodegradable, and recyclable materials to reflect sunlight away from meltwater and exposed ice, buying time for ecosystems under pressure.
+
+You can help — even if you're not a scientist.
+
+---
+
+## 🚀 3 Ways You Can Help
+
+### 1. **Share It**
+Help more people find this project:
+- Post the [GitHub link](https://github.com/camurbruadar/Ice-Quilt) to climate forums, Reddit, or Twitter (use hashtag **#IceQuilt**)
+- Send it to local climate groups, scientists, teachers, or makerspaces
+- Translate the README or fabrication guide into another language
+
+### 2. **Build or Prototype**
+You don’t need a lab — just basic tools and time:
+- Use the fabrication guide to make a small version
+- Test reflectivity or flotation in your local area
+- Share photos, results, or improvements back to the GitHub repo
+
+### 3. **Connect It**
+Send the Ice Quilt to people or orgs who can scale it:
+- Research centers (like Woodwell or Project Drawdown)
+- Arctic and glacial field scientists
+- NGOs working on climate mitigation
+- Teachers looking for open-source climate projects
+
+---
+
+## 📩 Email Template (Copy & Paste)
+
+> Subject: Open-Source Climate Tool to Slow Ice Melt – Free to Use
+>
+> Dear [Name/Org],
+>
+> I wanted to share an open-source invention called the **Ice Quilt** — a floating reflective panel system designed to slow polar and glacial melt by increasing albedo (surface reflectivity). It’s passive, low-cost, and designed for global use.
+>
+> The entire project is public domain (CC0 license), and includes blueprints, a fabrication guide, and a complete outreach kit.
+>
+> 📁 GitHub: https://github.com/YOURUSERNAME/ice-quilt  
+> 📁 OSF: https://osf.io/YOURPROJECT
+>
+> We’re inviting anyone to build, test, or scale it. No patents. No restrictions.
+>
+> Thanks for taking a look,
+>
+> Matthew Cameron Kotapish
+
+
+---
+
+## ✅ Outreach Checklist
+
+- [ ] Share GitHub/OSF link on Reddit (climate, environment, DIY)
+- [ ] Post on Twitter/X with images and tag climate orgs
+- [ ] Submit to Hackaday, Instructables, Make:
+- [ ] Email researchers and climate-focused NGOs
+- [ ] Translate into at least 3 other languages
+- [ ] Create local test or school project variant
+
+---
+
+## 🙌 Final Word
+
+This isn't about credit or profit — it’s about buying time for the planet.
+
+Use it. Share it. Break it. Improve it.
+The Ice Quilt belongs to *everyone.*
+
+Together, we reflect the heat — and hold the line.
+
+---
+
+**License:** CC0 1.0 Universal (Public Domain Dedication)  
+**Author:** Matthew Cameron Kotapish  
+**Date:** June 29, 2025
